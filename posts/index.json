@@ -1,4 +1,11 @@
 {
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Jaime Gómez-Obregón",
+    "icon": "https://jaime.gomezobregon.com/assets/jaime.jpg",
+    "favicon": "https://jaime.gomezobregon.com/assets/icon.svg",
+    "home_page_url": "https://juan-rey.me/",
+    "feed_url": "https://juan-rey.me/posts/index.json",
+    "description": "Hola, Jaime al teclado. Cacharreo con datos y ordenadores, leo, escribo y hago cosas.",
     "items": [
         {
             "id": "libertad",
