@@ -35,6 +35,15 @@
             "date_published": "2022-07-03T09:45:00Z",
             "tags": [],
             "language": "es"
+        },
+        {
+            "id": "El coletas",
+            "url": "https://juan-rey.me/el-coletas",
+            "title": "El coletas",
+            "content_text": "Quien es el coletas",
+            "date_published": "2022-07-06T18:45:00Z",
+            "tags": [],
+            "language": "es"
         }
     ]
 }
