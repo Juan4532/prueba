@@ -24,7 +24,9 @@
             "title": "Libertad",
             "content_text": "que es la libertad",
             "date_published": "2022-06-27T11:09:00Z",
-            "tags": [],
+            "tags": [
+                "Destacado"
+            ],
             "language": "es"
         },
         {
